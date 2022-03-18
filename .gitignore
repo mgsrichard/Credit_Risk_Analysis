@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+*.csv
 LoanStatus_2019Q1.csv
 Module-17-Challenge-Resources.zip
 __pycache__/
