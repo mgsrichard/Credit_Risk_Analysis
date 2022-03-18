@@ -13,3 +13,4 @@ Summary: Summarize the results of the machine learning models, and include a rec
 ![balanced random forest](https://github.com/mgsrichard/Credit_Risk_Analysis/blob/main/Resources/balanced_random_classifier.png)
 ![brf features](https://github.com/mgsrichard/Credit_Risk_Analysis/blob/main/Resources/balanced_random_features.png)
 ![easy ensemble](https://github.com/mgsrichard/Credit_Risk_Analysis/blob/main/Resources/easy_ensemble.png)
+![excel summary](https://github.com/mgsrichard/Credit_Risk_Analysis/blob/main/Resources/summary.png)
