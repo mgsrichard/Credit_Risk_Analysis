@@ -2,6 +2,7 @@
 Using supervised machine learning techniques to predict credit risk
 
 Overview of the analysis: Explain the purpose of this analysis.
+The purpose of this analysis is to evaluate how well 6 different supervised machine learning models predict whether a loan is low or high risk, based on a credit card credut dataset from LendingClub. The models use a variety of approaches: oversampling, undersampling, over and undersampling, and ensemble methods.
 
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
