@@ -51,3 +51,7 @@ The table below summarizes the outcomes of the 6 models, side by side, with cond
 
 ![excel summary](https://github.com/mgsrichard/Credit_Risk_Analysis/blob/main/Resources/summary.png)
 
+
+### Contact Information
+Martha Richardson
+mgsrichard@yahoo.com
